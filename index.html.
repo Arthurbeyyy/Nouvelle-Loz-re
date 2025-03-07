@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lozère Nouvelle - Sarkozy en Lozère</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; background-color: #f4f4f4; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        h1 { color: #333; }
+        h2 { color: #555; }
+        .footer { margin-top: 20px; font-size: 0.9em; color: #777; text-align: center; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sarkozy en Lozère : "Les gorges du Tarn, un joyau unique, bien loin du Cantal !"</h1>
+        <p><strong>Sainte-Enimie, 15 octobre 2014 –</strong> En visite en Lozère, Nicolas Sarkozy a tenu des propos particulièrement élogieux sur le département, mettant en avant la beauté exceptionnelle des gorges du Tarn et le dynamisme de ses habitants. Toutefois, une comparaison maladroite avec le Cantal a suscité quelques réactions mitigées.</p>
+        
+        <h2>Un discours dithyrambique sur la Lozère</h2>
+        <p>Lors d’une allocution à Sainte-Enimie, Sarkozy a déclaré : "Quand on parle de la France éternelle, c’est ici, en Lozère, que l’on trouve un exemple parfait ! Ces paysages époustouflants, ce patrimoine unique, cette nature préservée… On voit bien que tout ici est à part, que nous sommes dans un lieu d’exception."</p>
+        
+        <h2>Une comparaison qui fait grincer des dents</h2>
+        <p>"La Lozère, c’est un territoire exceptionnel. Ce n’est pas comme le Cantal, où l’on a du mal à voir quelque chose d’aussi marquant, d’aussi spectaculaire."</p>
+        <p>Cette déclaration a provoqué des réactions mitigées, certains y voyant une boutade, d’autres une critique injustifiée.</p>
+        
+        <h2>Réactions contrastées</h2>
+        <p>Si les Lozériens ont accueilli ces propos avec amusement, les élus cantaliens, eux, ont réagi plus vivement, dénonçant une opposition stérile entre territoires voisins.</p>
+        
+        <h2>Un moment de gêne, vite balayé</h2>
+        <p>Conscient du malaise, Sarkozy a nuancé ses propos, affirmant "adorer le Cantal" tout en réaffirmant la singularité de la Lozère.</p>
+        
+        <h2>Un message clair malgré la controverse</h2>
+        <p>Malgré cette polémique, l’ancien président a insisté sur l’importance du tourisme vert et de la ruralité, soulignant que "la Lozère incarne l’authenticité française".</p>
+        
+        <div class="footer">© 2024 Lozère Nouvelle - Tous droits réservés</div>
+    </div>
+</body>
+</html>
+
+
